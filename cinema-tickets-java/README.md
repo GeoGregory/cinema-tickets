@@ -2,18 +2,16 @@
 
 The following is my submission for the DWP coding exercise.
 
-
 ---
-
 ## Features
 
-Three ticket types:
+### Three ticket types:
 
 * Adult (£25, requires a seat)
 * Child (£15, requires a seat, must be purchased with an adult ticket)
 * Infant (£0, no seat, must be purchased with an adult ticket)
 
-Validates purchase rules:
+### Validates purchase rules:
 
 * At least one adult must be present for children or infants
 * No more than 25 tickets per purchase
